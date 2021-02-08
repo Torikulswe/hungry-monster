@@ -1,22 +1,24 @@
 body{
-    background-color: rgb(6, 250, 156);
+    background-color: rgba(5, 116, 51, 0.952);
 }
 .container {
     padding: 80px 0px;
 }
-.search-area {
-    width: 40%;
-    margin: auto;
-    padding-bottom: 40px;
+
+#search-input{
+    padding: 15px;
+}
+#search-button{
+    padding: 15px;
+}
+#meal img{
+    width: 300px;
+} 
+#mealDetail img{
+    margin-top: 30px;
+    width: 300px;
+}
+#mealDetail {
+    width: 300px;
 }
 
-.search-area input {
-    padding: 15px 100px;
-    border-radius: 3px;
-    border: none;
-}
-.search-area .style-btn{
-    background-color: rgb(38, 102, 221);
-    color: #fff;
-    border: none;
-}
