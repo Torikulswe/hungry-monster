@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(6, 250, 156);
+}
+.container {
+    padding: 80px 0px;
+}
+.search-area {
+    width: 40%;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+.search-area input {
+    padding: 15px 100px;
+    border-radius: 3px;
+    border: none;
+}
+.search-area .style-btn{
+    background-color: rgb(38, 102, 221);
+    color: #fff;
+    border: none;
+}
